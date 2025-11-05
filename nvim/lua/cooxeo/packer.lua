@@ -63,14 +63,14 @@ use {
 --   end
 -- }
 
---lua/plugins/rose-pine.lua
-use ({
-	"rose-pine/neovim",
-	name = "rose-pine",
-	config = function()
-		vim.cmd("colorscheme rose-pine")
-	end
-})
+-- --lua/plugins/rose-pine.lua
+-- use ({
+-- 	"rose-pine/neovim",
+-- 	name = "rose-pine",
+-- 	config = function()
+-- 		vim.cmd("colorscheme rose-pine")
+-- 	end
+-- })
 
 
 
